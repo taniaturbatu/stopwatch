@@ -1,0 +1,29 @@
+body{
+    background-color: rgb(179, 0, 255);
+    font-family: cursive;
+}
+
+.wrapper{
+    color: rgb(31, 27, 27);
+    text-align: center;
+    margin: 30px auto;
+}
+
+#seconds, #mili {
+    font-size: 40px;
+}
+
+button {
+    border-radius: 5px;
+    background-color:rgb(237, 100, 184);
+    color: rgb(0, 0, 0);
+    border: solid 1px;
+    width: 180px;
+    margin: 10px;
+    padding: 20px 10px;
+}
+
+button:hover {
+    background-color: rgb(124, 9, 231);
+    color: rgb(100, 121, 237);
+}
